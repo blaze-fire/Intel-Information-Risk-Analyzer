@@ -3,7 +3,7 @@
 OS Required : **Debian linux**
 
 
-1) First you need to install tesseract by `sudo apt install tesseract-ocr`, and `sudo apt-get install ffmpeg libsm6 libxext6  -y`
+1) First you need to install tesseract by `sudo apt install tesseract-ocr -y`, and `sudo apt-get install ffmpeg libsm6 libxext6  -y`
 
 2) Do `git clone https://github.com/blaze-fire/Intel-Information-Risk-Analyzer.git` and `cd Intel-Information-Risk-Analyzer` directory 
 
