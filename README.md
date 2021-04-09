@@ -9,4 +9,4 @@ OS Required : **Debian linux**
 
 3) In the directory do `conda env create -f environment.yml`
 
-4) Then type `streamlit run app.py`
+4) Then type `conda activate intel-info-risk-visualizer` and in order to run the app type `streamlit run app.py`
