@@ -10,6 +10,6 @@ Fork the repo and follow the given steps to run the app
 
 3) `conda env create -f environment.yml`.
 
-4) `conda activate intel-info-risk-visualizer` and in order to run the app type 
+4) `conda activate intel-info-risk-visualizer` 
 
-5) `streamlit run app.py`.
+5)  In order to run the app type  `streamlit run app.py`.
