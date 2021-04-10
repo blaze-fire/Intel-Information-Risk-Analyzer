@@ -12,4 +12,4 @@ Fork the repo and follow the given steps to run the app
 
 4) `conda activate intel-info-risk-visualizer` 
 
-5)  In order to run the app type  `streamlit run app.py`.
+5) `streamlit run app.py` to run the app.
