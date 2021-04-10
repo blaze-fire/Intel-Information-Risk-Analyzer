@@ -2,7 +2,7 @@
 
 OS Required : **Debian linux**
 
-Follow the given steps to run the app 
+Fork the repo and follow the given steps to run the app 
 
 1) `git clone https://github.com/blaze-fire/Intel-Information-Risk-Analyzer.git` 
   
