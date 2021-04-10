@@ -1,6 +1,6 @@
 # Intel-Information-Risk-Analyzer
 
-OS Required : **Debian linux**
+OS Required : **Windows** or **Debian linux**
 
 Fork the repo and follow the given steps to run the app 
 
