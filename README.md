@@ -6,9 +6,9 @@ Fork the repo and run the following given commands in the terminal to run the ap
 
 1) `git clone https://github.com/blaze-fire/Intel-Information-Risk-Analyzer.git` 
   
-2) `cd Intel-Information-Risk-Analyzer`.
+2) `cd Intel-Information-Risk-Analyzer`
 
-3) `conda env create -f environment.yml`.
+3) `conda env create -f environment.yml`
 
 4) `conda activate intel-info-risk-visualizer` 
 
