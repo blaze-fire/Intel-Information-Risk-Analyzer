@@ -1,4 +1,4 @@
-# Intel-Information-Risk-Analyzer
+# Intel Information Risk Analyzer
 
 OS Required : **Windows** or **Debian linux**
 
